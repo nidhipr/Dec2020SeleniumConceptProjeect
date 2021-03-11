@@ -8,8 +8,8 @@ public class LaunchAppTest {
 	}
   
   public void loginFail(){
-    system.out.println("Remote-------login Fail message");
-	
+    System.out.println("Remote-------login Fail message");
+  }
 	public void logout() {
 		System.out.println("Remote----logout");
 	}
