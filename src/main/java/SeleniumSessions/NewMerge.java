@@ -9,6 +9,7 @@ public class NewMerge {
 	}
 	public void login() {
 		System.out.println("remote ---login");
+
 	}
 
 }
